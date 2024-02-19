@@ -4,7 +4,7 @@ I utilize the online resources and develop the web application.
 
 <h1> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
 
-<img width ='32px' src ='icons/html.svg'> <img width ='32px' src ='icons/css.svg'> <img width ='32px' src ='icons/javascript.svg'> <img width ='80px' src ='icons/jquery.svg'> <img width ='32px' src ='icons/bootstrap.svg'> <img width ='32px' src ='icons/tailwind.svg'> <img width ='32px' style="color:#fff" src ='icons/php.svg'> <img width ='32px' src ='icons/laravel.svg'> <img width ='32px' src ='icons/mysql.svg'> <img width ='32px' src ='icons/git.svg'>
+<img width ='32px' src ='icons/html.svg' style='margin-right:12px'> <img width ='32px' src ='icons/css.svg' style='margin-right:12px'> <img width ='32px' src ='icons/javascript.svg' style='margin-right:12px'> <img width ='80px' src ='icons/jquery.svg' style='margin-right:12px'> <img width ='32px' src ='icons/bootstrap.svg' style='margin-right:12px'> <img width ='32px' src ='icons/tailwind.svg' style='margin-right:12px'> <img width ='32px' style="color:#fff" src ='icons/php.svg' style='margin-right:12px'> <img width ='32px' src ='icons/laravel.svg' style='margin-right:12px'> <img width ='32px' src ='icons/mysql.svg' style='margin-right:12px'> <img width ='32px' src ='icons/git.svg' style='margin-right:12px'>
 
 <h1> About Me </h1>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -22,4 +22,4 @@ Overall, I believe that my experience and skills make me a strong candidate for 
 - 📫 How to reach me: mianhamxa914@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MuhammadHamza0147)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_mr_hamxa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mr_hamxa266)
+[<img src='icons/github.svg' alt='github' height='40'>](https://github.com/MuhammadHamza0147)  [<img src='icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_mr_hamxa/)  [<img src='icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mr_hamxa266)
