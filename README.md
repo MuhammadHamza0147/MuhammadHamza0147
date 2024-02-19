@@ -22,4 +22,4 @@ Overall, I believe that my experience and skills make me a strong candidate for 
 - 📫 How to reach me: mianhamxa914@gmail.com 
 
 
-[<img src='icons/github.svg' alt='github' height='40'>](https://github.com/MuhammadHamza0147)  [<img src='icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_mr_hamxa/)  [<img src='icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mr_hamxa266)
+[<img src='icons/github.svg' alt='github' height='40' style='margin-right:12px'>](https://github.com/MuhammadHamza0147)  [<img src='icons/instagram.svg' alt='instagram' height='40' style='margin-right:12px'>](https://www.instagram.com/_mr_hamxa/)  [<img src='icons/twitter.svg' alt='twitter' height='40' style='margin-right:12px'>](https://twitter.com/mr_hamxa266)
