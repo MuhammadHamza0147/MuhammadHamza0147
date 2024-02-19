@@ -14,7 +14,7 @@ I utilize the online resources and develop the web application.
 </a>
 
 <img width ='102px' src ='../jquery.svg'>
-<img width ='32px' src ='../icons/bootstrap.svg'>
+<img width ='32px' src ='icons/bootstrap.svg'>
 <img width ='32px' src ='../icons/tailwind.svg'>
 <img width ='32px' src ='../icons/php.svg'>
 <img width ='32px' src ='../icons/laravel.svg'>
