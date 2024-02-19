@@ -6,7 +6,7 @@ I utilize the online resources and develop the web application.
 <img width ='32px' src ='icons/html.svg'> <img width ='32px' src ='icons/css.svg'> <img width ='32px' src ='icons/javascript.svg'> <img width ='80px' src ='icons/jquery.svg'> <img width ='32px' src ='icons/bootstrap.svg'> <img width ='32px' src ='icons/tailwind.svg'> <img width ='32px' src ='icons/php.svg'> <img width ='32px' src ='icons/laravel.svg'> <img width ='32px' src ='icons/laravel-word.svg'> <img width ='32px' src ='icons/mysql.svg'> <img width ='32px' src ='icons/api.svg'> <img width ='32px' src ='icons/git.svg'>
 
 <h1> About Me </h1>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="icons/banner.svg" />
 
 I am a back-end engineer with 3 years of industry experience. During this time, I have worked on several projects using Laravel  and built websites , CRM , ERP's & MultiTenant System with multi-databases.
 
