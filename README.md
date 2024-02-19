@@ -3,7 +3,7 @@ I utilize the online resources and develop the web application.
 <br>
 <h1> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
 
-<img width ='32px' src ='icons/html.svg'> <img width ='32px' src ='icons/css.svg'> <img width ='32px' src ='icons/javascript.svg'> <img width ='80px' src ='icons/jquery.svg'> <img width ='32px' src ='icons/bootstrap.svg'> <img width ='32px' src ='icons/tailwind.svg'> <img width ='32px' style="color:#fff" src ='icons/php.svg'> <img width ='32px' src ='icons/laravel.svg'> <img width ='32px' src ='icons/laravel-word.svg'> <img width ='32px' src ='icons/mysql.svg'> <img width ='32px' src ='icons/api.svg'> <img width ='32px' src ='icons/git.svg'>
+<img width ='32px' src ='icons/html.svg'> <img width ='32px' src ='icons/css.svg'> <img width ='32px' src ='icons/javascript.svg'> <img width ='80px' src ='icons/jquery.svg'> <img width ='32px' src ='icons/bootstrap.svg'> <img width ='32px' src ='icons/tailwind.svg'> <img width ='32px' src ='icons/php.svg'> <img width ='32px' src ='icons/laravel.svg'> <img width ='32px' src ='icons/laravel-word.svg'> <img width ='32px' src ='icons/mysql.svg'> <img width ='32px' src ='icons/api.svg'> <img width ='32px' src ='icons/git.svg'>
 
 <h1> About Me </h1>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
