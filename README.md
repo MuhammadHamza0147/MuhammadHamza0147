@@ -24,17 +24,17 @@ I utilize the online resources and develop the web application.
 <h1> About Me </h1>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-I am a front-end engineer with 3 years of industry experience. During this time, I have worked on several projects using Magento 2 and also built websites using PWA studio.
+I am a back-end engineer with 3 years of industry experience. During this time, I have worked on several projects using Laravel  and built websites , CRMS & ERP's.
 
-My experience is in these technologies has allowed me to develop a strong understanding of front-end development principles and best practices. I have experience with HTML, CSS, SASS, LESS, Tailwind CSS, Bootstrap, JavaScript, jQuery, React js, and other web development languages and tools.
+My experience is in these technologies has allowed me to develop a strong understanding of back-end development principles and best practices. I have experience with HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, jQuery, PHP, Laravel, MySQL.
 
-In addition to my technical skills, I have excellent problem-solving abilities, attention to detail, and a strong commitment to delivering high-quality work. I am passionate about front-end development and am constantly learning and staying up-to-date with the latest industry trends and technologies.
+In addition to my technical skills, I have excellent problem-solving abilities, attention to detail, and a strong commitment to delivering high-quality work. I am passionate about back-end development and am constantly learning and staying up-to-date with the latest industry trends and technologies.
 
-Overall, I believe that my experience and skills make me a strong candidate for front-end development positions, and I am excited to explore new opportunities in this field.
+Overall, I believe that my experience and skills make me a strong candidate for back-end development positions, and I am excited to explore new opportunities in this field.
 
 <h1> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h1>
 
-- 📫 How to reach me: ramishscrapper@gmail.com 
+- 📫 How to reach me: mianhamxa914@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ramishscrapper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ramish_hassan_riaz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Ramishscrapper)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MuhammadHamza0147)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_mr_hamxa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mr_hamxa266)
