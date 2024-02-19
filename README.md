@@ -16,7 +16,7 @@ I utilize the online resources and develop the web application.
 <img width ='102px' src ='icons/jquery.svg'>
 <img width ='32px' src ='icons/bootstrap.svg'>
 <img width ='32px' src ='icons/tailwind.svg'>
-<img width ='32px' src ='icons/php.svg'>
+<img width ='32px' style="color:#fff" src ='icons/php.svg'>
 <img width ='32px' src ='icons/laravel.svg'>
 <img width ='32px' src ='icons/mysql.svg'>
 <img width ='32px' src ='icons/git.svg'>
